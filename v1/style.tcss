@@ -1,0 +1,11 @@
+Screen {
+    layout: vertical;
+}
+Static {
+    height: 1fr;
+    padding: 1 2;
+}
+Input {
+    dock: bottom;
+    margin: 2 1 2 1;
+}
